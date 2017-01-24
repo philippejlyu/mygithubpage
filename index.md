@@ -3,7 +3,7 @@ Hello, I'm Philippe Yu. I'm working on several different projects that will even
 
 
 ### Current Apps
-So far, I have one app on the apps store. Inventory Made Simple. It allows stores and regular people to track inventory easily. 
+So far, I have one app on the app store. Inventory Made Simple. It allows stores and regular people to track inventory easily. 
 
 ### Other website
 I have a second website that you can see, it is more focused on my apps. I also have a learn to code blog with great tutorials that you can check out.
